@@ -18,7 +18,4 @@ Langchain repo with Ollama and Llama 3 - 8b integration for RAG
 [Local chatbot con langchain](local_rag.ipynb)
 
 
-## Youtube 📺
-🔽🔽🔽🔽🔽🔽🔽🔽 
 
-[https://youtu.be/CUTZhIATIC4](https://youtu.be/vA1ZxBIcCAA)
